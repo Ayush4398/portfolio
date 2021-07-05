@@ -1,7 +1,9 @@
 .textcenter {
   text-align: center;
 }
-
+.fontsize{
+  font-size: 20px;
+}
 .photosizesmall {
   height: 150px;
   position: fixed;
